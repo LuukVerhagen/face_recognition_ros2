@@ -1,3 +1,5 @@
+# This fork is going to convert the project to ROS 2. All the text below is from the original repository.
+
 ### Copyright 2012-2014 Pouyan Ziafati, University of Luxembourg 
 > * All image processing and face recognition functionalities are provided by utilizing the Shervin Emami's c++ source code for face recognition (http://www.shervinemami.info/faceRecognition.html).
  * License: Attribution-NonCommercial 3.0 Unported (http://creativecommons.org/licenses/by-nc/3.0/) 
